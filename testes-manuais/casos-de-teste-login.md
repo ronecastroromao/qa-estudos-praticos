@@ -32,9 +32,11 @@ Validar o comportamento da funcionalidade de login, verificando se a aplicação
 
 **Resultado esperado:** o login deve ser realizado com sucesso e a página de produtos deve ser exibida.
 
-**Resultado obtido:** Pendente de execução.
+Resultado obtido: O sistema autenticou o usuário com sucesso e exibiu a página Products, com a lista de produtos disponível.
 
-**Status:** Não executado.
+Status: Passou.
+
+
 
 ---
 
