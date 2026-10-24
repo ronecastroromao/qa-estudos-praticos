@@ -50,11 +50,9 @@ Status: Passou.
 3. Preencher o campo Password com uma senha incorreta, como `senha_errada_123`.
 4. Clicar no botão Login.
 
-**Resultado esperado:** o acesso deve ser negado e uma mensagem de erro deve ser exibida.
+Resultado obtido: O sistema recusou o acesso e exibiu a mensagem: "Epic sadface: Username and password do not match any user in this service".
 
-**Resultado obtido:** Pendente de execução.
-
-**Status:** Não executado.
+Status: Passou.
 
 ---
 
