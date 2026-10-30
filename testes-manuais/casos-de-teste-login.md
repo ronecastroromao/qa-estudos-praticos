@@ -36,6 +36,7 @@ Resultado obtido: O sistema autenticou o usuário com sucesso e exibiu a página
 
 Status: Passou.
 
+Evidência: [Visualizar captura do teste](evidencias/TC-01-login-valido.png)
 
 
 ---
@@ -54,6 +55,8 @@ Resultado obtido: O sistema recusou o acesso e exibiu a mensagem: "Epic sadface:
 
 Status: Passou.
 
+Evidência: [Visualizar captura do teste](evidencias/TC-02-senha-invalida.png)
+
 ---
 
 ### TC-03 — Login sem preencher o usuário
@@ -68,10 +71,11 @@ Status: Passou.
 
 **Resultado esperado:** o acesso não deve ser realizado e a aplicação deve informar que o usuário é obrigatório.
 
-**Resultado obtido:** Pendente de execução.
+Resultado obtido: O sistema impediu o login e exibiu a mensagem "Epic sadface: Username is required".
 
-**Status:** Não executado.
+Status: Passou.
 
+Evidência: [Visualizar captura do teste](evidencias/TC-03-usuario-nao-informado.png)
 ---
 
 ## 5. Observações da execução
