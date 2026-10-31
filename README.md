@@ -36,10 +36,31 @@ As ferramentas e tecnologias serão adicionadas conforme forem estudadas e utili
 
 ## Status do projeto
 
-**Em desenvolvimento.**
+**Em desenvolvimento.**``
 
 Este portfólio será atualizado durante minha formação. Os projetos, resultados e evidências publicados representarão atividades efetivamente realizadas, permitindo acompanhar minha evolução de forma transparente.
 
 ## Objetivo profissional
 
 Desenvolver competências práticas em Quality Assurance e construir um portfólio organizado que demonstre meus conhecimentos, minha capacidade de analisar resultados e minha evolução para oportunidades profissionais na área de testes de software.
+
+## Projetos práticos
+
+### 1. Testes manuais — SauceDemo
+
+Projeto prático de testes funcionais da tela de login da aplicação SauceDemo.
+
+**Atividades realizadas:**
+- Elaboração de casos de teste.
+- Execução de testes de login.
+- Validação de resultados esperados e obtidos.
+- Registro dos resultados das execuções.
+- Organização de evidências com capturas de tela.
+- Documentação dos testes em Markdown.
+
+**Casos de teste documentados:**
+- TC-01 — Login válido.
+- TC-02 — Login com senha inválida.
+- TC-03 — Login sem informar usuário.
+
+**Documentação:** [Visualizar casos de teste](testes-manuais/casos-de-teste-login.md)
