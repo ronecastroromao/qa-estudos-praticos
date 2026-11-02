@@ -67,3 +67,5 @@ Projeto prático de testes funcionais da tela de login da aplicação SauceDemo.
                   [Visualizar relatório de bugs](testes-manuais/relatorio-de-bugs.md)
 
 [Visualizar relatório BUG-02 — Checkout sem produtos](testes-manuais/relatorio-bug-02.md)
+
+[Visualizar casos de teste — Carrinho e Checkout](testes-manuais/casos-de-teste-carrinho-checkout.md)
