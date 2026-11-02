@@ -64,3 +64,5 @@ Projeto prático de testes funcionais da tela de login da aplicação SauceDemo.
 - TC-03 — Login sem informar usuário.
 
 **Documentação:** [Visualizar casos de teste](testes-manuais/casos-de-teste-login.md)
+                  [Visualizar relatório de bugs](testes-manuais/relatorio-de-bugs.md)
+
