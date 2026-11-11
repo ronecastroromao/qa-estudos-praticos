@@ -48,7 +48,7 @@ Desenvolver competências práticas em Quality Assurance e construir um portfól
 
 ### 1. Testes manuais — SauceDemo
 
-Projeto prático de testes funcionais da tela de login da aplicação SauceDemo.
+Projeto prático de testes funcionais da aplicação SauceDemo, abrangendo login, carrinho de compras e processo de checkout.
 
 **Atividades realizadas:**
 - Elaboração de casos de teste.
@@ -59,9 +59,20 @@ Projeto prático de testes funcionais da tela de login da aplicação SauceDemo.
 - Documentação dos testes em Markdown.
 
 **Casos de teste documentados:**
+
 - TC-01 — Login válido.
 - TC-02 — Login com senha inválida.
 - TC-03 — Login sem informar usuário.
+- TC-04 — Adicionar produto ao carrinho.
+- TC-05 — Remover produto pela página de produtos.
+- TC-06 — Visualizar produto no carrinho.
+- TC-07 — Remover produto pelo carrinho.
+- TC-08 — Visualizar carrinho vazio.
+- TC-09 — Realizar compra válida de um produto.
+- TC-10 — Validar campos obrigatórios do checkout.
+- TC-11 — Verificar validação do formato do código postal.
+- TC-12 — Tentar finalizar compra com carrinho vazio.
+- TC-13 — Cancelar checkout e preservar produto no carrinho.
 
 **Documentação:** [Visualizar casos de teste](testes-manuais/casos-de-teste-login.md)
                   [Visualizar relatório de bugs](testes-manuais/relatorio-de-bugs.md)
