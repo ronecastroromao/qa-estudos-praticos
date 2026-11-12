@@ -230,3 +230,21 @@ Leia o AGENTS.md, o CONTEXTO_ATUAL_DO_PROJETO.md e o README.md antes de responde
 Identifique o progresso, a última etapa concluída e a próxima atividade pendente.
 
 Respeite as instruções do AGENTS.md. Não repita atividades concluídas. Trabalhe uma etapa por vez e aguarde minha confirmação.
+
+## Atualização de progresso — 11/11/2026
+
+### Testes manuais — SauceDemo
+- Concluídos e documentados 13 casos de teste (TC-01 a TC-13).
+- Revisados os casos de teste, os relatórios BUG-01 e BUG-02, o README e a estrutura do portfólio.
+- Evidências dos testes TC-09 a TC-13 adicionadas ao repositório.
+- BUG-03 registrado como ocorrência isolada, não reproduzida.
+- TC-11 e TC-12 permanecem como comportamentos observados, sem confirmação de violação de requisito.
+
+### Git e GitHub
+- Commit publicado: `a125b30`.
+- Mensagem: `Documenta testes de checkout e atualiza estrutura do projeto`.
+- Push realizado com sucesso para `origin/main`.
+- Branch publicada: `main`.
+
+### Próxima etapa
+Iniciar o estudo de testes de API com Postman, avançando gradualmente a partir dos fundamentos já estudados em testes manuais.
